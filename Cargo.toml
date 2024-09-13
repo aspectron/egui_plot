@@ -26,9 +26,9 @@ ahash = { version = "0.8.11", default-features = false, features = [
     "std",
 ] }
 document-features = " 0.2.8"
-eframe = { git = "https://github.com/aspectron/egui", branch = "omega", default-features = false }
-egui = { git = "https://github.com/aspectron/egui", branch = "omega", default-features = false }
-emath = { git = "https://github.com/aspectron/egui", branch = "omega", default-features = false }
+eframe = { git = "https://github.com/aspectron/egui", branch = "gamma", default-features = false }
+egui = { git = "https://github.com/aspectron/egui", branch = "gamma", default-features = false }
+emath = { git = "https://github.com/aspectron/egui", branch = "gamma", default-features = false }
 image = { version = "0.25", default-features = false }
 serde = { version = "1", features = ["derive"] }
 
